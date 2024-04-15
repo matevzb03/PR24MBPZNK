@@ -1,8 +1,8 @@
 # PR24 - Projektna naloga
 ## ČLANI:
-1. Matevž Bizjak
-2. Nina Kokalj
-3. Pika Žibert
+- Matevž Bizjak
+-  Nina Kokalj
+- Pika Žibert
 
 ## PODATKI:
 ### zivali.csv:
