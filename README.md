@@ -8,7 +8,12 @@
 ### zivali.csv:
 | Atribut  | Opis |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| id | Content Cell  |
+| ime | Content Cell  |
+| datum_sprejema | Content Cell  |
+| datum_oddaje | Content Cell  |
+| spol | Content Cell  |
+| fevfiv | Content Cell  |
+| tip | Content Cell  |
 
 ## UGOTOVITVE:
