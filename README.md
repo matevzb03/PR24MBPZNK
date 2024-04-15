@@ -18,7 +18,7 @@ Podatki o živalih so shranjeni v dveh ločenih CSV datotekah, kjer so primeri p
 | fevfiv | Pozitivnost ali negativnost na FEV ali FIV virus pri mačkah  |
 | tip | Maček ali pes  |
 
-### vetrinska_oskrba.csv:
+### veterinska_oskrba.csv:
 | Atribut  | Opis |
 | ------------- | ------------- |
 | id | Identifikaciska oz. zaporedna številka živali  |
