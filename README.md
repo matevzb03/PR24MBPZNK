@@ -5,5 +5,10 @@
 3. Pika Žibert
 
 ## PODATKI:
+### zivali.csv:
+| Atribut  | Opis |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## UGOTOVITVE:
