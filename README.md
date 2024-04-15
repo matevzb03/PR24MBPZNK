@@ -22,7 +22,7 @@ Podatki o živalih so shranjeni v dveh ločenih CSV datotekah, kjer so primeri p
 | Atribut  | Opis |
 | ------------- | ------------- |
 | id | Identifikaciska oz. zaporedna številka živali  |
-| sterilizirana_kastrirana | Ali je žival steralizirana oz. kastrirana (0/1) |
+| sterilizirana_kastrirana | Ali je žival sterilizirana oz. kastrirana (0/1) |
 | cepljena | Ali je žival cepljena (0/1)  |
 | cipirana | Ali je žival čipirana (0/1)  |
 
