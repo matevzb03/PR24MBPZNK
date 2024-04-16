@@ -28,5 +28,6 @@ Podatki o živalih so shranjeni v dveh ločenih CSV datotekah, kjer so primeri p
 
 ## UGOTOVITVE:
 Z atributoma datum_sprejema in datum_oddaje smo izračunali število dni, ki jih je posamezna žival preživela v zavetišču. Ugotovili smo, da je povprečno število dni preživetih v zavetišču 125,17825311942958 in narisali graf.
+
 ![bar](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/e7c32963-90c0-4a04-9aaa-6eca52d8bf8a)
 
