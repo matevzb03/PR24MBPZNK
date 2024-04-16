@@ -33,5 +33,9 @@ Z atributoma datum_sprejema in datum_oddaje smo izračunali število dni, ki jih
 Iz grafa je vidno, da je večina živali v zavetišču preživela manj kot 300 dni. Imamo pa par zanimiv osamelcev, ki močno odstopajo od ostalih in presegajo celo 1000 dni, kar pomeni, da so bili v zavetišču več let. V povprečju pa žival v zavetišču Horjul biva 4 mesece preden je posvojena.
 
 S pomočjo števila dni preživetih v zavetišču smo narisali tudi histogram:
+
 ![histogram](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/2763c35a-d033-4883-a02d-9f563e05eed3)
+Histogram potrjuje zgornje ugotovitve. 
+V nadaljevanju bomo ugotavljali, kateri dejavniki vplivajo na število dni, ki jih žival preživi v zavetišču Horjul, oziroma na to, kako hitro bo posvojena.
+
 
