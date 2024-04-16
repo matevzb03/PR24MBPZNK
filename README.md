@@ -46,7 +46,7 @@ Ugotovili smo, da zavetišče večino svojih živali oskrbi v celoti ali pa jim 
 
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151447/1c855d58-0c9d-4e55-91b4-79e3b6e2f169)
 
-Nato pa smo še narisali histogram, kjer kategorija polna oskrba tvorijo živali, ki so prejele vse od treh prej omenjenih oskrb, delna oskeba so živali, ki jim manjka vsaj ena od treh oskrb in brez oskrbe so živli, ki jim manjkajo vse tri oskrbe.
+Nato pa smo še narisali histogram, kjer kategorija polna oskrba tvorijo živali, ki so prejele vse od treh prej omenjenih oskrb, delna oskeba so živali, ki jim manjka vsaj ena od treh oskrb in brez oskrbe so živali, ki jim manjkajo vse tri oskrbe.
 
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151447/10a9776e-c179-428f-a5d6-a98ec1bcd19f)
 
