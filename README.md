@@ -30,4 +30,5 @@ Podatki o živalih so shranjeni v dveh ločenih CSV datotekah, kjer so primeri p
 Z atributoma datum_sprejema in datum_oddaje smo izračunali število dni, ki jih je posamezna žival preživela v zavetišču. Ugotovili smo, da je povprečno število dni preživetih v zavetišču 125,17825311942958 in narisali graf.
 
 ![bar](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/e7c32963-90c0-4a04-9aaa-6eca52d8bf8a)
+Iz grafa je vidno, da je večina živali v zavetišču preživela manj kot 300 dni. Zelo majhno število živali je v zavetišču preživelo več kot 600 dni. V povprečno žival v zavetišču Horjul biva 4 mesece preden je posvojena.
 
