@@ -31,6 +31,16 @@ def threaded_function(url):
         parent_element = titles[0].find_parent('p')
         if(parent_element):
             opisi = parent_element.find_all("span", {"class": "opis"})
+            slika = parent_element.find("img")
+            slika_url = url.rsplit('/', 1)[0]
+            neki = slika_url + "/" + slika['src']
+            print(neki)
+            try:
+                urllib.request.urlretrieve(neki, "neki/"+str(id_counter)+".jpg")
+
+            except Exception as error:
+                # handle the exception
+                print("An exception occurred:", error)
             if(len(opisi) == 0):
                 opisi = parent_element.find_all("span", {"class": "noga1"})
             for opis in opisi:
