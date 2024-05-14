@@ -33,3 +33,5 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 | ------------- | ------------- |
 | image name | Identifikaciska oz. zaporedna številka živali  |
 | Clusters | Gruča, v katero pripada žival |
+
+## UGOTOVITVE:
