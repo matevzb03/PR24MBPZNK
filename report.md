@@ -65,3 +65,5 @@ Najmanj časa pa preživijo psi, ki nas spominjajo na labradorce (gruča C10) - 
 | Gruča | 0-15 |
 
 Kategorične atribute, ki so bili originalno, na primer tip in spol smo prevedli v binarno vrednost 0 ali 1. Veterinska oskrba je bila že pripravljena v obliki one-hot encoding pri pridobivanju podatkov iz spleta, prav tako število dni v zavetišču. Gruče so bile originalno nizi C1-C15, te nize smo preoblikovali v števila, tako da smo odstranili črko 'C' in dobili številke od 1 do 15.
+
+Iz teh pretvorb je nastala matrika, s katero smo model naučili napovedovanja števila dni. Odločili smo se, da bomo uporabili linearno regresijo in ansamble z random forest.
