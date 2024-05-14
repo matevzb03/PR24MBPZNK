@@ -27,3 +27,9 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 | sterilizirana_kastrirana | Ali je žival sterilizirana oz. kastrirana (0/1) |
 | cepljena | Ali je žival cepljena (0/1)  |
 | cipirana | Ali je žival čipirana (0/1)  |
+
+### embedded-slike.csv:
+| Atribut  | Opis |
+| ------------- | ------------- |
+| image name | Identifikaciska oz. zaporedna številka živali  |
+| Clusters | Gruča, v katero pripada žival |
