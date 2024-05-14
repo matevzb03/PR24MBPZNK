@@ -44,6 +44,12 @@ Gručenje je bilo izvedeno s pomočjo matrike, dobljene po Image Embedding v Ora
 
 Dobljene gruče smo uporabili, da bi ugotovili kakšno je povprečno število dni, ki jih živali v gruči preživijo v zavetišču. Z drugimi besedami nas je zanimalo, kakšne živali prej najdejo dom in kakšne nanj čakajo dlje časa.
 
+Ugotovili smo, da  črne mačke (gruča C13) največ časa preživijo v zavetišču - v povprečju kar 239,92 dni. Predvidevamo, da ljudje vrjamejo v praznoverje, da črne mačke prinašajo nesreečo.
+![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151447/a2d31f95-5f65-4a2f-a804-721e2d4cd227)
+
+Najmanj časa pa preživijo psi, ki nas spominjajo na labradorce (gruča  C10) - v povprečju 67,37 dni.
+![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151447/977773f5-8e8b-4994-a7cb-7aeec10f2b9b)
+
 
 
 ### Napoved števila dni:
