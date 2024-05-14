@@ -1,4 +1,4 @@
-# PR24 - Projektna naloga
+# PR24 - Končno poročilo za projektno nalogo
 ## ČLANI:
 - Matevž Bizjak
 -  Nina Kokalj
