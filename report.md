@@ -64,7 +64,7 @@ Najmanj časa pa preživijo psi, ki nas spominjajo na labradorce (gruča C10) - 
 | Čipiran | ne (0) / da (1) |
 | Gruča | 0-15 |
 
-Kategorične atribute, ki so bili originalno, na primer tip in spol smo prevedli v binarno vrednost 0 ali 1. Veterinska oskrba je bila že pripravljena v obliki one-hot encoding pri pridobivanju podatkov iz spleta, prav tako število dni v zavetišču. Gruče so bile originalno nizi C1-C15, te nize smo preoblikovali v števila, tako da smo odstranili črko 'C' in dobili številke od 1 do 15.
+Kategorične atribute, ki so bili originalno, na primer tip in spol smo prevedli v binarno vrednost 0 ali 1. Veterinska oskrba je bila že pripravljena v obliki one-hot encoding pri pridobivanju podatkov iz spleta. število dni v zavetišču je bilo prav tako zračunano pri pridobivanju podatkov iz spleta. Gruče so bile originalno nizi C1-C15, te nize smo preoblikovali v števila, tako da smo odstranili črko 'C' in dobili številke od 1 do 15.
 
 
 Iz teh pretvorb je nastala matrika, ki smo jo uporabili za učenje modela za napovedovanje števila dni v zavetišču. Pri izbiri modelov smo se odločili uporabiti linearno regresijo in ansamble z metodo naključnega gozda (Random Forest). Linearno regresijo smo izbrali, ker je preprosta in enostavna za razumevanje ter lahko zajame linearno povezavo med atributi in ciljno spremenljivko. Za bolj kompleksne odnose med atributi in ciljno spremenljivko pa smo uporabili ansambelski model naključnega gozda.
