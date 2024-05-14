@@ -35,3 +35,9 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 | Clusters | Gruča, v katero pripada žival |
 
 ## UGOTOVITVE:
+
+### Nina statistika:
+
+### Hierarhično gručenje:
+
+### Napoved števila dni:
