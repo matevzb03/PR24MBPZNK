@@ -42,6 +42,8 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 Gručenje je bilo izvedeno s pomočjo matrike, dobljene po Image Embedding v Orange. Uporabili smo Wardov povezovalni način, katere cilj je zmanjšati varianco znotraj gruč.
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151447/f478e55c-20da-419f-b350-3d3f25c46300)
 
+Dobljene gruče smo uporabili, da bi ugotovili kakšno je povprečno število dni, ki jih živali v gruči preživijo v zavetišču. Z drugimi besedami nas je zanimalo, kakšne živali prej najdejo dom in kakšne nanj čakajo dlje časa.
+
 
 
 ### Napoved števila dni:
