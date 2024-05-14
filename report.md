@@ -6,7 +6,8 @@
 
 ## PODATKI:
 Podatki so bili pridobljeni s spletne strani [zavetišča Horjul](https://www.zavetisce-horjul.net/spet_doma.php).
-Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri povezani preko identifikacijske številke posamezne živali (id). Prva datoteka, 'zivali.csv', vsebuje podatke o živalih, kot so ime, datum sprejema v zavetišče, itd. Druga datoteka, 'veterinarska_oskrba.csv',  vsebuje podatke o veterinarski oskrbi živali, kot so informacije o sterilizaciji/kastraciji, cepljenju in čipiranju. Datoteki sta povezani z identifikacijsko številko živali. Tretja datoteka 'embedded-slike.csv' pa vsebuje 
+Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri povezani preko identifikacijske številke posamezne živali (id). Prva datoteka, 'zivali.csv', vsebuje podatke o živalih, kot so ime, datum sprejema v zavetišče, itd. Druga datoteka, 'veterinarska_oskrba.csv',  vsebuje podatke o veterinarski oskrbi živali, kot so informacije o sterilizaciji/kastraciji, cepljenju in čipiranju. Datoteki sta povezani z identifikacijsko številko živali. Tretja datoteka 'embedded-slike.csv' je bila ustvarjena z uporabo Orangea in funkcije Image Embedding. Ta funkcija izkoristi predhodno naučeno nevronsko mrežo za pretvorbo slik v obsežno matriko števil. Nato smo to matriko uporabili za izvajanje hierarhičnega gručenja. Ključni atributi v tej datoteki vključujejo 'image name', ki se ujema z id-ji v drugih dveh datotekah, ter 'Clusters', kar predstavlja gruče, ki so bile določene za vsako žival.
+
 ### zivali.csv:
 | Atribut  | Opis |  
 | ------------- | ------------- |
@@ -14,8 +15,9 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 | ime | Ime živali  |
 | datum_sprejema | Datum sprejema živali v zavetišče (x, če manjka)  |
 | datum_oddaje | Datum oddaje živali iz zavezišča v večni dom (x, če manjka)  |
+| cas_v_zavetiscu | Število dni, ki je žival preživela v zavetišču |
 | spol | Spol živali - Ženski/Moški  |
-| fevfiv | Pozitivnost ali negativnost na FEV ali FIV virus pri mačkah  |
+| felvfiv | Pozitivnost ali negativnost na FeLV ali FIV virus pri mačkah  |
 | tip | Maček ali pes  |
 
 ### veterinska_oskrba.csv:
