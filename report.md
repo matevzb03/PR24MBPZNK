@@ -63,4 +63,5 @@ Najmanj časa pa preživijo psi, ki nas spominjajo na labradorce (gruča C10) - 
 | Cepljen | ne (0) / da (1) |
 | Čipiran | ne (0) / da (1) |
 | Gruča | 0-15 |
+
 Kategorične atribute, ki so bili originalno, na primer tip in spol smo jih prevedli v binarno vrednost 0 ali 1. Veterinska oskrba je bila že pripravljena v obliki one-hot encoding pri pridobivanju podatkov iz spleta, prav tako število dni v zavetišču. Gruče so bile originalno nizi C1-C15, te nize smo preoblikovali v števila, tako da smo odstranili črko 'C' in dobili številke od 1 do 15.
