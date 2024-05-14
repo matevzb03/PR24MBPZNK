@@ -68,3 +68,7 @@ Kategorične atribute, ki so bili originalno, na primer tip in spol smo prevedli
 
 
 Iz teh pretvorb je nastala matrika, ki smo jo uporabili za učenje modela za napovedovanje števila dni v zavetišču. Pri izbiri modelov smo se odločili uporabiti linearno regresijo in ansamble z metodo naključnega gozda (Random Forest). Linearno regresijo smo izbrali, ker je preprosta in enostavna za razumevanje ter lahko zajame linearno povezavo med atributi in ciljno spremenljivko. Za bolj kompleksne odnose med atributi in ciljno spremenljivko pa smo uporabili ansambelski model naključnega gozda.
+
+Pri linearni regresiji smo dobili MAE 68.66 dni, torej se model v povprečju zmoti za približno 69 dni. Ko smo ga preizkusili na živali, ki še ni posvojena je model napovedal 196.55 dni do posvojitve, v resnici pa je maček že 211 dni v zavetišču, torej več kot je bilo predvideno.
+
+Pri ansamblih pa smo dobili MAE 60.76 dni, kar je nekoliko bolje kot pri linearni regresiji. Za isti primer je napovedal 333 dni, torej naj bi ta maček našel svoj dom čez 122 dni. 
