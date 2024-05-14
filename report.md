@@ -53,3 +53,13 @@ Najmanj časa pa preživijo psi, ki nas spominjajo na labradorce (gruča C10) - 
 
 
 ### Napoved števila dni:
+Želeli smo tudi napovedati število dni, ki jih bodo živali preživele v zavetišču, glede na naslednje atribute:
+| Atribut  | Vrednost v matriki |  
+| ------------- | ------------- |
+| Čas v zavtišču (y) - napovedujemo | Število dni |
+| Tip | mačka (0) / pes (1) |
+| Spol | moški (0) / ženski (1) |
+| Kastriran | ne (0) / da (1) |
+| Cepljen | ne (0) / da (1) |
+| Čipiran | ne (0) / da (1) |
+| Gruča | 0-15 |
