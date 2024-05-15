@@ -60,7 +60,8 @@ Najprej smo izračunali osnovne statistične parametre, kot so povprečje in nep
 
 Analizirali smo tudi datume sprejetja v zavetišče in datume oddaje iz zavetišča. Prešteli smo število živali sprejetih v zavetišče na mesec in število živali oddanih iz zavetišča na mesec ter izrisali oba grafa.
 
-![g1](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/1635eeb9-82f7-4bb2-9e8b-74583e0ad591)
+![333](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/2c7b006d-626e-4b7d-adac-678f9e3539c6)
+
 
 
 
