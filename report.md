@@ -68,7 +68,7 @@ Oddajo živali smo analizirali tudi za vsak mesec vsakega leta. Zaradi boljše b
 
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/61c21bdb-9928-4b6b-8e36-b66097cb0063)
 
-
+Največja porasta oddaje živali sta v januarju 2019 in januarju 2022. Porast leta 2019 ne znamo pojasniti, januar 2022 pa se nam je zdel bolj zanimiv. Takrat se je Slovenija spopadala s pandemijo COVID-19. Država je v tem mesecu zabeležila rekordno število novih primerov. Morda so se zaradi teh težkih časov ljudje zatekli k muckom in kužkom:)
 
 
 
