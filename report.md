@@ -58,12 +58,15 @@ Ugotavljali smo tudi, ali histogram preživetih dni v zavetišču spominja na ka
 
 Najprej smo izračunali osnovne statistične parametre, kot so povprečje in nepristranska ocena variance. Potem smo ocenili tri različne verjetnostne porazdelitve - Gaussovo, Studentovo t- in beta-porazdelitev - ter njihove gostote verjetnosti prikazali na histogramu, ki prikazuje porazdelitev preživetih dni v zavetišču. Ta analiza nam omogoča boljše razumevanje časa živali v zavetišču in primerjavo med različnimi verjetnostnimi modeli. Ugotovili smo, da se naša porazdelitev najbolj ujema s Studentovo porazdelitvijo.
 
-Analizirali smo tudi datume sprejetja v zavetišče in datume oddaje iz zavetišča. Prešteli smo število živali sprejetih v zavetišče na mesec in število živali oddanih iz zavetišča na mesec ter izrisali oba grafa.
+Analizirali smo datume sprejetja v zavetišče in datume oddaje iz zavetišča. Prešteli smo število živali sprejetih v zavetišče na mesec in število živali oddanih iz zavetišča na mesec ter izrisali oba grafa.
 
 ![bl](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/e9cf59af-7a26-4845-b51f-af16f92b5bc5)
 
 Iz grafov je lepo razvidno, da sta v večini mesecev obratno sorazmerna. To se da lepo videti v poletnih mesecih, kjer je število sprejetih živali največje in število oddanih najmanjše. Rezultat je logičen, saj ljudje odhajajo na dopuste in nimajo časa v družino uvajati novih družinskih članov. Oddaja živali se poveča že septembra, ko se zopet začneta šola in služba. Največ živali je oddanih od novembra do marca (z izjemo decembra). Sklepamo, da je to zato, ker takrat ljudje več časa preživijo v svojih domovih in si zaželijo družbe hišnega ljubljenčka. Čas praznikov ter hladna in temna zima lahko povzročita porast osamljenosti in depresije, morda se zato nekateri odločijo za bližino živali.
 
+Oddajo živali smo analizirali tudi za vsak mesec vsakega leta. Zaradi boljše berljivost je na x-osi označen le januar vsakega leta.
+
+![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/61c21bdb-9928-4b6b-8e36-b66097cb0063)
 
 
 
