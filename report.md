@@ -56,7 +56,12 @@ Ugotavljali smo tudi, ali histogram preživetih dni v zavetišču spominja na ka
 
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/5648bcfa-0e99-4bea-8ce6-0065cf18f8b6)
 
-Izvedli smo statistično analizo in vizualizacijo porazdelitve preživetih dni v zavetišču za živali. Najprej smo izračunali osnovne statistične parametre, kot so povprečje in nepristranska ocena variance. Nato smo ustvarili histogram, ki prikazuje porazdelitev preživetih dni v zavetišču. Nato smo ocenili tri različne verjetnostne porazdelitve - Gaussovo, Studentovo t- in beta-porazdelitev - ter njihove gostote verjetnosti prikazali na istem grafu. Ta analiza nam omogoča boljše razumevanje preživetja živali v zavetišču in primerjavo med različnimi verjetnostnimi modeli. Ugotovili smo, da se naša porazdelitev najbolj ujema z beta-porazdelitvijo.
+Najprej smo izračunali osnovne statistične parametre, kot so povprečje in nepristranska ocena variance. Potem smo ocenili tri različne verjetnostne porazdelitve - Gaussovo, Studentovo t- in beta-porazdelitev - ter njihove gostote verjetnosti prikazali na histogramu, ki prikazuje porazdelitev preživetih dni v zavetišču. Ta analiza nam omogoča boljše razumevanje časa živali v zavetišču in primerjavo med različnimi verjetnostnimi modeli. Ugotovili smo, da se naša porazdelitev najbolj ujema s Studentovo porazdelitvijo.
+
+Analizirali smo tudi datume sprejetja v zavetišče in datume oddaje iz zavetišča. Prešteli smo število živali sprejetih v zavetišče na mesec in število živali oddanih iz zavetišča na mesec ter izrisali oba grafa.
+
+![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/97280248-7655-45f2-ae13-74b512b47558)
+
 
 ### Hierarhično gručenje:
 Gručenje je bilo izvedeno s pomočjo matrike, dobljene po Image Embedding v Orange. Uporabili smo Wardov povezovalni način, katere cilj je zmanjšati varianco znotraj gruč.
