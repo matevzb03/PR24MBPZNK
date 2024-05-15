@@ -38,6 +38,7 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 
 ### Osnovne statistike:
 Nad podatki smo izvedli nekaj osnovne statistike.  V datoteki zivali.csv je zabeleženih 626 živali, med njimi pa je 222 mačk in 404 psov. Narisali smo histogram preživetih dni v zavetišču za mačke ter histogram preživetih dni v zavetišču za pse in ugotovili, da mačke povprečno v zavetišču preživijo 186 dni in psi povprečno 93 dni, torej mačke na posvojitev čakajo še enkrat toliko kot psi. Narisali smo tudi skupen histogram preživetih dni v zavetišču.
+
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/16274ed8-fb4f-4ec1-9dac-602c86b9bacd)
 Povprečno število dni preživetih v zavetiču: 125
 
@@ -51,9 +52,11 @@ Največ časa je na posvojitev čakala psička Gumbka in to 2170 dni, kar je sko
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/6d6a9de5-30d7-4134-a39b-b885f55c77e4)
 Psička Gumbka
 
-Ugotavljali smo tudi, ali histogram preživetih dni v zavetišču spominja na katero od znanih porazdelitev.
+Ugotavljali smo tudi, ali histogram preživetih dni v zavetišču spominja na katero od znanih porazdelitev. 
+
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/5648bcfa-0e99-4bea-8ce6-0065cf18f8b6)
 
+Izvedli smo statistično analizo in vizualizacijo porazdelitve preživetih dni v zavetišču za živali. Najprej smo izračunali osnovne statistične parametre, kot so povprečje in nepristranska ocena variance. Nato smo ustvarili histogram, ki prikazuje porazdelitev preživetih dni v zavetišču. Nato smo ocenili tri različne verjetnostne porazdelitve - Gaussovo, Studentovo t- in beta-porazdelitev - ter njihove gostote verjetnosti prikazali na istem grafu. Ta analiza nam omogoča boljše razumevanje preživetja živali v zavetišču in primerjavo med različnimi verjetnostnimi modeli. Ugotovili smo, da se naša porazdelitev najbolj ujema z beta-porazdelitvijo.
 
 ### Hierarhično gručenje:
 Gručenje je bilo izvedeno s pomočjo matrike, dobljene po Image Embedding v Orange. Uporabili smo Wardov povezovalni način, katere cilj je zmanjšati varianco znotraj gruč.
