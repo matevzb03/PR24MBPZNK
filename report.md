@@ -43,6 +43,8 @@ Povprečno število dni preživetih v zavetiču: 125
 Najmanjše število dni preživetih v zavetišču: 7
 Največje število dni preživetih v zavetišču: 2170
 V histogramu se je pokazalo par osamelcev. Obstajajo živali, ki so na posvojitev čakale kar haha.
+![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/6d6a9de5-30d7-4134-a39b-b885f55c77e4)
+
 
 ### Hierarhično gručenje:
 Gručenje je bilo izvedeno s pomočjo matrike, dobljene po Image Embedding v Orange. Uporabili smo Wardov povezovalni način, katere cilj je zmanjšati varianco znotraj gruč.
