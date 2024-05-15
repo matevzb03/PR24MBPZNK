@@ -70,6 +70,15 @@ Oddajo živali smo analizirali tudi za vsak mesec vsakega leta. Zaradi boljše b
 
 Največja porasta oddaje živali sta v januarju 2019 in januarju 2022. Porast leta 2019 ne znamo pojasniti, januar 2022 pa se nam je zdel bolj zanimiv. Takrat se je Slovenija spopadala s pandemijo COVID-19. Država je v tem mesecu zabeležila rekordno število novih primerov. Morda so se zaradi teh težkih časov ljudje zatekli k muckom in kužkom:)
 
+Zanimala nas je tudi veterinarska oskrba živali v zavetišču Horjul. Z analizo datoteke "veterinarska_oskrba.csv" smo preštevali število primerov z določeno oskrbo. Atributi primera so kastracija/sterilizacija, cepljenje in čipiranje. Vrednost 1 označuje, da je primer oskrbljen, medtem ko vrednost 0 pomeni, da ni.
+
+Ugotovili smo, da zavetišče večino svojih živali oskrbi v celoti ali pa jim ne nudi oskrbe v ničemer. Le nekaj živali je le delno oskrbljenih. Spodnji izpis prikazuje podrobno število živali glede na vrsto oskrbe.
+
+![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/21f61013-4f80-427c-9100-7601dfc29f14)
+
+Nato pa smo še narisali histogram, kjer kategorija polna oskrba tvorijo živali, ki so prejele vse od treh prej omenjenih oskrb, delna oskeba so živali, ki jim manjka vsaj ena od treh oskrb in brez oskrbe so živali, ki jim manjkajo vse tri oskrbe.
+
+![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/45b1ec34-7bb6-496f-985a-b9c40baa436f)
 
 
 
