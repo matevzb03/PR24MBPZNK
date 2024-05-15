@@ -36,7 +36,13 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 
 ## UGOTOVITVE:
 
-### Nina statistika:
+### Osnovne statistike:
+Nad podatki smo izvedli nekaj osnovne statistike.  V datoteki zivali.csv je zabeleženih 626 živali, med njimi pa je 202 mačk in 404 psov. Narisali smo histogram preživetih dni v zavetišču za mačke ter histogram preživetih dni v zavetišču za pse in ugotovili, da mačke povprečno v zavetišču preživijo 186 dni in psi povprečno 93 dni, torej mačke na posvojitev čakajo še enkrat toliko kot psi. Narisali smo tudi skupen histogram preživetih dni v zavetišču.
+![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/16274ed8-fb4f-4ec1-9dac-602c86b9bacd)
+Povprečno število dni preživetih v zavetiču: 125
+Najmanjše število dni preživetih v zavetišču: 7
+Največje število dni preživetih v zavetišču: 2170
+V histogramu se je pokazalo par osamelcev. Obstajajo živali, ki so na posvojitev čakale kar haha.
 
 ### Hierarhično gručenje:
 Gručenje je bilo izvedeno s pomočjo matrike, dobljene po Image Embedding v Orange. Uporabili smo Wardov povezovalni način, katere cilj je zmanjšati varianco znotraj gruč.
