@@ -60,7 +60,8 @@ Najprej smo izračunali osnovne statistične parametre, kot so povprečje in nep
 
 Analizirali smo tudi datume sprejetja v zavetišče in datume oddaje iz zavetišča. Prešteli smo število živali sprejetih v zavetišče na mesec in število živali oddanih iz zavetišča na mesec ter izrisali oba grafa.
 
-![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/97280248-7655-45f2-ae13-74b512b47558)
+![g1](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/1635eeb9-82f7-4bb2-9e8b-74583e0ad591)
+
 
 
 ### Hierarhično gručenje:
