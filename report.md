@@ -43,9 +43,10 @@ Povprečno število dni preživetih v zavetiču: 125
 Najmanjše število dni preživetih v zavetišču: 7
 Največje število dni preživetih v zavetišču: 2170
 V histogramu se je pokazalo par osamelcev. Obstajajo živali, ki so na posvojitev čakale več kot 1000 dni, torej 3 leta in več.
-Največ časa je na posvijtev čakala psička Gumbka in to 2170 dni, kar je skoraj 6 let.
+Največ časa je na posvijtev čakala psička Gumbka in to 2170 dni, kar je skoraj 6 let, a je na koncu vseeno našla dom:)
 
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/6d6a9de5-30d7-4134-a39b-b885f55c77e4)
+Psička Gumbka
 
 
 ### Hierarhično gručenje:
