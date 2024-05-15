@@ -58,7 +58,8 @@ Ugotavljali smo tudi, ali histogram preživetih dni v zavetišču spominja na ka
 
 Najprej smo izračunali osnovne statistične parametre, kot so povprečje in nepristranska ocena variance. Potem smo ocenili tri različne verjetnostne porazdelitve - Gaussovo, Studentovo t- in beta-porazdelitev - ter njihove gostote verjetnosti prikazali na histogramu, ki prikazuje porazdelitev preživetih dni v zavetišču. Ta analiza nam omogoča boljše razumevanje časa živali v zavetišču in primerjavo med različnimi verjetnostnimi modeli. Ugotovili smo, da se naša porazdelitev najbolj ujema s Studentovo porazdelitvijo.
 
-Analizirali smo datume sprejetja v zavetišče in datume oddaje iz zavetišča. Prešteli smo število živali sprejetih v zavetišče na mesec in število živali oddanih iz zavetišča na mesec ter izrisali oba grafa.
+### Sezonska nihanja pri sprejemu in oddaji živali:
+Analizirali smo datume sprejema v zavetišče in datume oddaje iz zavetišča. Prešteli smo število živali sprejetih v zavetišče na mesec in število živali oddanih iz zavetišča na mesec ter izrisali oba grafa.
 
 ![bl](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/e9cf59af-7a26-4845-b51f-af16f92b5bc5)
 
@@ -70,9 +71,10 @@ Oddajo živali smo analizirali tudi za vsak mesec vsakega leta. Zaradi boljše b
 
 Največja porasta oddaje živali sta v januarju 2019 in januarju 2022. Porast leta 2019 ne znamo pojasniti, januar 2022 pa se nam je zdel bolj zanimiv. Takrat se je Slovenija spopadala s pandemijo COVID-19. Država je v tem mesecu zabeležila rekordno število novih primerov. Morda so se zaradi teh težkih časov ljudje zatekli k muckom in kužkom:)
 
-Zanimala nas je tudi veterinarska oskrba živali v zavetišču Horjul. Z analizo datoteke "veterinarska_oskrba.csv" smo preštevali število primerov z določeno oskrbo. Atributi primera so kastracija/sterilizacija, cepljenje in čipiranje. Vrednost 1 označuje, da je primer oskrbljen, medtem ko vrednost 0 pomeni, da ni.
+### Veterinarska oskrba:
+Zanimala nas je veterinarska oskrba živali v zavetišču Horjul. Z analizo datoteke "veterinarska_oskrba.csv" smo preštevali število primerov z določeno oskrbo. Atributi primera so kastracija/sterilizacija, cepljenje in čipiranje. Vrednost 1 označuje, da je primer oskrbljen, medtem ko vrednost 0 pomeni, da ni.
 
-Ugotovili smo, da zavetišče večino svojih živali oskrbi v celoti ali pa jim ne nudi oskrbe v ničemer. Le nekaj živali je le delno oskrbljenih. Spodnji izpis prikazuje podrobno število živali glede na vrsto oskrbe.
+Nad veterinarsko oskrbo smo prijetno presenečeni. Ugotovili smo, da zavetišče večino svojih živali oskrbi v celoti ali pa jim ne nudi oskrbe v ničemer. Le nekaj živali je le delno oskrbljenih. Spodnji izpis prikazuje podrobno število živali glede na vrsto oskrbe.
 
 ![image](https://github.com/matevzb03/PR24MBPZNK/assets/162151394/21f61013-4f80-427c-9100-7601dfc29f14)
 
