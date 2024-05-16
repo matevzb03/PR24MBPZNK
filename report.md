@@ -35,7 +35,7 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 
 ## PRIDOBIVANJE PODATKOV:
 Podatki so bili pridobljeni s spletne strani [zavetišča Horjul](https://www.zavetisce-horjul.net/spet_doma.php).
-Za pridobivanje podatkov smo uporabljali Python skripto. Uporabljali smo knjižnico Requests, da smo pridobili html strukturo spletne strani ter knjižnico BeautifulSoup za parsanje pridobljenih datotek. Podatke smo na koncu zapisala v .csv datoteko
+Za pridobivanje podatkov smo uporabljali Python skripto. Uporabljali smo knjižnico Requests, da smo pridobili html strukturo spletne strani, ter knjižnico BeautifulSoup za parsanje pridobljenih datotek. Podatke smo na koncu zapisala v .csv datoteko
 
 ## UGOTOVITVE:
 
