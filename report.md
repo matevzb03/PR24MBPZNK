@@ -5,7 +5,6 @@
 - Pika Žibert
 
 ## PODATKI:
-Podatki so bili pridobljeni s spletne strani [zavetišča Horjul](https://www.zavetisce-horjul.net/spet_doma.php).
 Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri povezani preko identifikacijske številke posamezne živali (id). Prva datoteka, 'zivali.csv', vsebuje podatke o živalih, kot so ime, datum sprejema v zavetišče, itd. Druga datoteka, 'veterinarska_oskrba.csv',  vsebuje podatke o veterinarski oskrbi živali, kot so informacije o sterilizaciji/kastraciji, cepljenju in čipiranju. Datoteki sta povezani z identifikacijsko številko živali. Tretja datoteka 'embedded-slike.csv' je bila ustvarjena z uporabo Orangea in funkcije Image Embedding. Ta funkcija izkoristi predhodno naučeno nevronsko mrežo za pretvorbo slik v obsežno matriko števil. Nato smo to matriko uporabili za izvajanje hierarhičnega gručenja. Ključni atributi v tej datoteki vključujejo 'image name', ki se ujema z id-ji v drugih dveh datotekah, ter 'Clusters', kar predstavlja gruče, ki so bile določene za vsako žival.
 
 ### zivali.csv:
@@ -33,6 +32,10 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 | ------------- | ------------- |
 | image name | Identifikaciska oz. zaporedna številka živali  |
 | Clusters | Gruča, v katero pripada žival |
+
+## PRIDOBIVANJE PODATKOV:
+Podatki so bili pridobljeni s spletne strani [zavetišča Horjul](https://www.zavetisce-horjul.net/spet_doma.php).
+Za pridobivanje podatkov smo uporabljali Python skripto. Uporabljali smo knjižnico Requests, da smo pridobili html strukturo spletne strani ter knjižnico BeautifulSoup za parsanje pridobljenih datotek. Podatke smo na koncu zapisala v .csv datoteko
 
 ## UGOTOVITVE:
 
