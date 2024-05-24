@@ -35,7 +35,8 @@ Podatki o živalih so shranjeni v treh ločenih CSV datotekah, kjer so primeri p
 
 ## PRIDOBIVANJE PODATKOV:
 Podatki so bili pridobljeni s spletne strani [zavetišča Horjul](https://www.zavetisce-horjul.net/spet_doma.php).
-Za pridobivanje podatkov smo uporabljali Python skripto. Uporabljali smo knjižnico Requests, da smo pridobili html strukturo spletne strani, ter knjižnico BeautifulSoup za parsanje pridobljenih datotek. Podatke smo na koncu zapisala v .csv datoteko
+Za pridobivanje podatkov smo uporabljali Python skripto. Uporabljali smo knjižnico Requests, da smo pridobili html strukturo spletne strani, ter knjižnico BeautifulSoup za parsanje pridobljenih datotek. Podatke smo na koncu zapisali v .csv datoteko. Edini podatek na spletni strani katerega nismo uspešno pridbili je bila starost ob sprejemu. To se nam je sicer zdel zelo pomember podatek, ampak je bil na spletni strani podan za vsako žival ročno in po večini vedno v drugačnem formatu. Imeli smo tudi nekaj manjkajočioh podatkov katere smo pa kasneje samo ignorirali ter izbrisali, saj je v večini primerov šlo za žival skupaj z mladiči, oziroma za leglo mladičev.
+Spletna stran je dokaj zastarela, tako da z kakršnokoli zaščito pred roboti nismo imeli problemov. Niso imeli tudi nikakršne captche oziroma blokade v primeru preveč zahtevkov, tako da smo uspeli pridobiti vse podatke iz strani iz enega računalnika samo z uporabo niti in brez proxy-jev v samo parih minutah.
 
 ## UGOTOVITVE:
 
